@@ -1,0 +1,18 @@
+#logout {
+    color: inherit;
+    cursor: pointer;
+}
+
+.spinner {
+    background: #007aff;
+    background-image: url(../img/spinner.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 45px;
+}
+.spinner:hover {
+    background: #007aff;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 45px;
+}
